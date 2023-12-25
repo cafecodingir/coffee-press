@@ -2,6 +2,12 @@
   "name": "coffee-press",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "cafecoding",
+    "email": "cafecodingir@gmail.com",
+    "url": "https://cafecoding.ir",
+    "founder": "Mohsen Nadealinezhad"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
